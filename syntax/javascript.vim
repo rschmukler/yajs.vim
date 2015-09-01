@@ -189,7 +189,7 @@ syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptNoR
 "import,javascriptRegexpString,javascriptPropertyName
 syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptNoReserved in instanceof let new return super
 syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptNoReserved switch throw try typeof var
-syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptNoReserved void while with yield
+syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptNoReserved void while with yield await async
 
 syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptNoReserved enum implements package protected static
 syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptNoReserved interface private public abstract boolean
